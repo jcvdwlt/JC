@@ -4,3 +4,15 @@
 
 layout: page
 ---
+
+Hi, welcome to my personal page!
+<br/><br/>
+
+You can learn more about [me](/JC/about/)
+
+See what I've [written](/JC/posts/)
+
+And side-projects I've [built](/JC/made/)
+<br/><br/>
+
+Thanks for visiting!
