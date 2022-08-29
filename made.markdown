@@ -4,13 +4,15 @@ title: Made
 permalink: /made/
 ---
 
-
 [Bayesian :ab: test calculator][split-test-calculator] - A simple calculator for statistical analysis of A/B test 
 results, using the more intuitive Bayesian approach.  (Post explaining the benefits pending...)
 
+[![calculator](/JC/calculator.JPG){: width="40%" }][split-test-calculator]
 
-[![interview-guide](Interview_book_cover.JPG){: width="26%" }][interview-book-link]  A short guide on preparing for 
-interviews.  You set the price. 
+A short guide on preparing for interviews.  You set the price.
+
+[![interview-guide](Interview_book_cover.JPG){: width="26%" }][interview-book-link] 
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://introvertinterviewee.gumroad.com/l/interview_guide">Buy on</a>
 
