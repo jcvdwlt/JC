@@ -28,7 +28,7 @@ url: https://jcvdwlt.github.io # the base hostname & protocol for your site, e.g
 github_username:  jcvdwlt
 linkedin_username: jc-van-der-walt
 
-google_analytics: "G-S4EZY2CSYM"
+google_analytics: G-S4EZY2CSYM
 # Build settings
 theme: minima
 plugins:
