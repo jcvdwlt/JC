@@ -27,7 +27,8 @@ The calculator allows you to enter the number of visitors and positive outcomes 
 out-performance 
 margin $$x$$.  If you'd like to incorporate the value of a positive outcome, for example if the pricing is different on 
 the two sites, you can select to include the conversion value in the calculations.  Once the data's been entered, 
-hit `Update`, and *viola*, you have your answer.
+hit `Update`, and *viola*, you have your answer.  The plot displays the probability density functions over the conversion
+rates (or values), showing the uncertainty of the estimates, and the overlap between the two.
 
 The calculator assumes a uniform prior, which means we're assuming that all rates are equally likely before any data 
 is observed.  The relative importance of the prior diminishes as more data is collected, and its effect is washed out.
