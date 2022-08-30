@@ -48,11 +48,11 @@ true rate, but to the uninitiated that sounds like unnecessary mental gymnastics
 
 The Bayesian says, sure, the rates may be exact real numbers, but since we don't know what they are, we can talk about 
 probabilities as degrees of belief.  For example, say I have to guess my friend's height.  In my mind, I'd compare his 
-height to the heights of others that I know more precisely.  I might say, he's taller than me and I'm 1.7 meters tall, 
-but he's shorter than Bobby who's 1.8 meters tall.  So I'd say the probabilty that he's shorter than 1.7 is 0, and the 
-probability that he's shorter than 1.8 is 100%, and if I have no further information (I don't know if he's closer in 
-height to either me or Bobby), I say the probability that he's shorter than 1.75 meters is 50%.  Once I observe my friend 
-standing next to Alice, who I know is 1.75 meters tall, and Bobby, I'd update my estimate to something be more precise.  
+height to the heights of others that I know more precisely.  I might say, he's taller than me and I'm $$1.7$$ meters tall, 
+but he's shorter than Bobby who's $$1.8$$ meters tall.  So I'd say the probabilty that he's shorter than $$1.7$$ is $$0$$, and the 
+probability that he's shorter than $$1.8$$ is $$100\%$$, and if I have no further information (I don't know if he's closer in 
+height to either me or Bobby), I say the probability that he's shorter than $$1.75$$ meters is $$50\%$$.  Once I observe my friend 
+standing next to Alice, who I know is $$1.75$$ meters tall, and Bobby, I'd update my estimate to something be more precise.  
 All of this seems quite natural, especially compared to the Frequentist formulation.
 
 # Flexibility and monitoring 
@@ -73,12 +73,12 @@ its often better to select the best alternative given available information.
 
 To illustrate the point, say you run a split-test using the Frequentist formulation.  After concluding the test, you 
 don't find a significant improvement.  If you'd used academia's favourite parameters, this would mean that there's a 
-more than 5% chance that the 
-new site is no better than the old.  You do a Bayesian analysis too, and find that there's a 70% probability that the 
+more than $$5\%$$ chance that the 
+new site is no better than the old.  You do a Bayesian analysis too, and find that there's a $$70\%$$ probability that the 
 new site is better.  Due to other constraints you cannot continue running the test (e.g. another team has now launched a
 test and continuing this one will interfere with theirs).  What should you do?  Clearly there are many other 
 considerations that could influence our answer, but given that the changes have been made and the cost of switching is 
-therefore close to 0, the most rational action would often be to switch to B.  The Frequentist following academic norms
+therefore close to $$0$$, the most rational action would often be to switch to B.  The Frequentist following academic norms
 would've have advised this.
  
 The Bayesian is faced with the choice of prior, which is the most critisized aspect of this approach.  But, it's 
