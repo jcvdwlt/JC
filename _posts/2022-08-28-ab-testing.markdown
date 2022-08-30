@@ -49,7 +49,7 @@ true rate, but to the uninitiated that sounds like unnecessary mental gymnastics
 The Bayesian says, sure, the rates may be exact real numbers, but since we don't know what they are, we can talk about 
 probabilities as degrees of belief.  For example, say I have to guess my friend's height.  In my mind, I'd compare his 
 height to the heights of others that I know more precisely.  I might say, he's taller than me and I'm $$1.7$$ meters tall, 
-but he's shorter than Bobby who's $$1.8$$ meters tall.  So I'd say the probabilty that he's shorter than $$1.7$$ is $$0$$, and the 
+but he's shorter than Bobby who's $$1.8$$ meters tall.  So I'd say the probability that he's shorter than $$1.7$$ is $$0$$, and the 
 probability that he's shorter than $$1.8$$ is $$100\%$$, and if I have no further information (I don't know if he's closer in 
 height to either me or Bobby), I say the probability that he's shorter than $$1.75$$ meters is $$50\%$$.  Once I observe my friend 
 standing next to Alice, who I know is $$1.75$$ meters tall, and Bobby, I'd update my estimate to something be more precise.  
@@ -63,8 +63,8 @@ is built on the notion that our beliefs update as we observe data.  At any point
 Bayesian formulation provides an answer to the most intuitive formulation of our original question.  
 
 # Paramter choices 
-The choice of significance and power in Frequentist tests are usually set at 5% and 80% without much further thought, 
-corresponding to a 5% chance of encountering a false positive, and a 20% chance of a false negative.  These arbitrary 
+The choice of significance and power in Frequentist tests are usually set at $$5\%$$ and $$80\%$$ without much further thought, 
+corresponding to a $$5\%$$ chance of encountering a false positive, and a $$20\%$$ chance of a false negative.  These arbitrary 
 choices stem from accepted norms in scientific publishing.  In academic research, the "cost" of a false positive is high. 
 Incorrectly claiming that a new relationship has been discovered in an academic journal has high reputational risk for 
 the journal and the authors (in an industry where reputation is everything).  Furthermore, the decision to publish is 
@@ -79,9 +79,9 @@ new site is better.  Due to other constraints you cannot continue running the te
 test and continuing this one will interfere with theirs).  What should you do?  Clearly there are many other 
 considerations that could influence our answer, but given that the changes have been made and the cost of switching is 
 therefore close to $$0$$, the most rational action would often be to switch to B.  The Frequentist following academic norms
-would've have advised this.
+wouldn't have advised this.
  
-The Bayesian is faced with the choice of prior, which is the most critisized aspect of this approach.  But, it's 
+The Bayesian is faced with the choice of prior, which is the most criticized aspect of this approach.  But, it's 
 impossible to do inference without making assumptions.  Setting a prior forces decision makers to be explicit about 
 theirs.  As more data is collected, the impact of the prior is washed out, and it's fairly straightforward to conduct a 
 sensitivity analysis over different priors.
