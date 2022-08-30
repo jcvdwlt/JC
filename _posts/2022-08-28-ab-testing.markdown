@@ -6,15 +6,15 @@ categories: analytics
 ---
 
 ## What is an A/B test?
-You have an idea to improve your website to push your conversion rates higher.  The improved site's been built and its 
+You have an idea to improve your website to push your conversion rates higher.  The improved site's been built and it's 
 ready to go.  But, how do you know that the improvement is really an improvement?  A surprising amount of "improvements"
 end up having the opposite effect.  The principled approach to answering this question is to run a split test, and 
-gather some experimental data before making the decision.  Once the data's been collected, you want to know if your 
-new site was an improvement, you want some measure of whether the improvement is sufficiently large to justify the 
-changes, and you want to know the level of certainty, or the probability that you might be wrong.  
+gather some experimental data before making the decision.  Using the collected data, you'd want to know if your 
+new site was an improvement, some measure of whether the improvement is sufficiently large to justify the 
+changes, and a level of certainty, or probability that you might be wrong.  
 
 ## A Bayesian split-test calculator
-Stated exactly, you want to know the probability that website B (the new alternative) is at least $$x%$$ better than 
+Stated exactly, you want to know the probability that website B (the new alternative) is at least $$x\%$$ better than 
 website A (the old version).  For $$x=0$$, you'll get the probability that B is better.  
 
 A Bayesian approach allows us to answer this question.  
@@ -30,7 +30,7 @@ the two sites, you can select to include the conversion value in the calculation
 hit `Update`, and *viola*, you have your answer.
 
 The calculator assumes a uniform prior, which means we're assuming that all rates are equally likely before any data 
-is observed.  The relative importance of the prior diminishes as more data is collected, and it's effect is washed out.
+is observed.  The relative importance of the prior diminishes as more data is collected, and its effect is washed out.
 
 ## Frequentist *vs* Bayesian 
 In practice, this approach to split-test analysis is less common than the Frequentist approach.  The two approaches each 
@@ -49,7 +49,7 @@ The Bayesian says, sure, the rates may be exact real numbers, but since we don't
 probabilities as degrees of belief.  For example, say I have to guess my friend's height.  In my mind, I'd compare his 
 height to the heights of others that I know more precisely.  I might say, he's taller than me and I'm 1.7 meters tall, 
 but he's shorter than Bobby who's 1.8 meters tall.  So I'd say the probabilty that he's shorter than 1.7 is 0, and the 
-probability that he's shorter than 1.8m is 100%, and if I have no further information (I don't know if he's closer in 
+probability that he's shorter than 1.8 is 100%, and if I have no further information (I don't know if he's closer in 
 height to either me or Bobby), I say the probability that he's shorter than 1.75 meters is 50%.  Once I observe my friend 
 standing next to Alice, who I know is 1.75 meters tall, and Bobby, I'd update my estimate to something be more precise.  
 All of this seems quite natural, especially compared to the Frequentist formulation.
