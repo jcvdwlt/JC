@@ -17,5 +17,5 @@ A short guide on preparing for interviews.  You set the price.
 <a class="gumroad-button" href="https://introvertinterviewee.gumroad.com/l/interview_guide">Buy on</a>
 
 [split-test-calculator]: https://bayesian-test-calculator.herokuapp.com/calculator_app
-[calculator-post]: /JC/analytics/2022/08/26/ab-testing
+[calculator-post]: /JC/analytics/2022/08/28/ab-testing
 [interview-book-link]: https://introvertinterviewee.gumroad.com/l/interview_guide
