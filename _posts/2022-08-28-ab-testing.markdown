@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benefits of Bayesian A/B test analysis"
-date:   2022-08-26 13:06:13 +0100
+date:   2022-08-28 13:06:13 +0100
 categories: analytics 
 ---
 
