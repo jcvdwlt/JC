@@ -13,6 +13,8 @@ The belief in undefined “progress” has no substance.  The duties of everyday
 
 The question of life: What will come of what I do today or tomorrow? Progress in the infinite means nothing.  
 
+Life contains suffering and death.  Reason cannot grant a finite life ultimate meaning. 
+
 Empiricism (science) can say nothing about first causes (a potential source of ultimate meaning).  
 
 Philosophy can only restate the question of life. 
