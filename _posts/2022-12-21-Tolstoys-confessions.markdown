@@ -9,7 +9,7 @@ Faith without purpose or meaning fades away.
 
 Conventional vices are celebrated.  Unique virtues are condemned. 
 
-The belief in undefined “progress” has no substance.  The duties of everyday life obscures our confusion about ultimate motivations. 
+The belief in undefined “progress” has no substance.  The duties of everyday life obscure our confusion about ultimate motivations. 
 
 Life contains suffering and death.  Reason alone cannot grant a finite life ultimate meaning. 
 
