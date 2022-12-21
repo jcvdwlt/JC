@@ -11,13 +11,11 @@ Conventional vices are celebrated.  Unique virtues are condemned.
 
 The belief in undefined “progress” has no substance.  The duties of everyday life obscure our confusion about ultimate motivations. 
 
-Life contains suffering and death.  Reason alone cannot grant a finite life ultimate meaning. 
-
 The question of life: What will come of what I do today or tomorrow? Progress in the infinite means nothing.  
 
-Empiricism can say nothing about first causes.  
+Empiricism (science) can say nothing about first causes (a potential source of ultimate meaning).  
 
-Abstract philosophy or metaphysics can only restate the question of life. 
+Philosophy can only restate the question of life. 
 
 Reason cannot answer life’s question, and suffering and death exists, therefore life is evil and should end. 
 
