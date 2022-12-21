@@ -7,11 +7,10 @@ categories: update
 
 Welcome to my new site!
 
-I'll post updates on what I'm making, in the spirit of building in the open. 
+I'll post updates on what I'm making, reading, or thinking, in the spirit of building in the open. 
 
 For starters, I'm exploring how to build simple web applications, like this 
 [Bayesian split-test calculator][split-test-calculator].
 
 
-[bokeh]: https://docs.bokeh.org/en/latest/
 [split-test-calculator]: https://jcvdwlt.github.io/bayes_ab_calc/
