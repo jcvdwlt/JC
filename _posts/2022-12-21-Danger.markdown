@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Be dangerous"
-date:   2022-08-26 13:06:13 +0100
+date:   2022-12-21 10:00:00 +0100
 categories: unpopular-thoughts
 ---
 
 > *The most contrarian thing of all is not to oppose the crowd, but to think for yourself*
 > 
-> Peter Thiel
+> **Peter Thiel**
 
 Perception is the truth that matters.  It shapes life.
 
