@@ -44,7 +44,7 @@ main_content {
     appearance: none;
     border-radius: 3em;
     height: 1.5em;
-    width: 6em;
+    width: 8em;
 
     display: flex;
     justify-content: center;
@@ -71,4 +71,9 @@ main_content {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.footer {
+    text-align: center;
+    font-size: 10px; 
 }
