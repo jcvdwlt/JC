@@ -35,7 +35,7 @@ main_content {
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    width: 10em;
+    width: 8em;
 }
 
 .center { 
@@ -46,7 +46,7 @@ main_content {
   }
 
 .link_button {
-    font-size: 16px; 
+    font-size: 17px; 
     font-weight: bold;
     color: #1d3557;
     background: #a8dadc;
@@ -56,9 +56,9 @@ main_content {
     height: 1.5em;
     width: 8em; */
 
-    border-radius: 12.5px;
-    height: 25px;
-    width: 140px;
+    border-radius: 15px;
+    height: 30px;
+    width: 130px;
 
     display: flex;
     justify-content: center;
