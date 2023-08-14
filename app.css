@@ -42,9 +42,13 @@ main_content {
     background: #a8dadc;
     border-color: #a8dadc;
     appearance: none;
-    border-radius: 3em;
+    /* border-radius: 3em;
     height: 1.5em;
-    width: 8em;
+    width: 8em; */
+
+    border-radius: 12.5px;
+    height: 25px;
+    width: 140px;
 
     display: flex;
     justify-content: center;
@@ -76,4 +80,8 @@ main_content {
 .footer {
     text-align: center;
     font-size: 10px; 
+}
+
+#link_tree_add {
+    font-size: 12px;
 }
