@@ -31,11 +31,16 @@ main_content {
     margin-right: -3.8em;
 }
 
-.buttons {
+/* .buttons {
     align-items: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 30px;
     width: 8em;
+} */
+
+#buttons {
+    margin-top: 10px;
 }
 
 .center { 
@@ -102,6 +107,7 @@ main_content {
     justify-content: center;
     height: 10px;
     width: auto;
+    margin-top: 20px;
 }
 
 .big_dot {
